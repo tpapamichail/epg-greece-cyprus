@@ -1,40 +1,39 @@
 channels = [
-    # Cosmote
     # Ert
-    {"epgName": "ert1", "serverName": "39846", "provider": "cosmote", "icon": "https://data.greektv.ml/logos/ert1.png"},
-    {"epgName": "ert2", "serverName": "39404", "provider": "cosmote", "icon": "https://data.greektv.ml/logos/ert2.png"},
-    {"epgName": "ert3", "serverName": "39557", "provider": "cosmote", "icon": "https://data.greektv.ml/logos/ert3.png"},
+    # {"epgName": "ert1", "serverName": "39846", "provider": "cosmote", "icon": "https://data.greektv.ml/logos/ert1.png"},
+    # {"epgName": "ert2", "serverName": "39404", "provider": "cosmote", "icon": "https://data.greektv.ml/logos/ert2.png"},
+    # {"epgName": "ert3", "serverName": "39557", "provider": "cosmote", "icon": "https://data.greektv.ml/logos/ert3.png"},
 
     # Cinema
-    {"epgName": "cosmote_cinema_1", "serverName": "38979", "provider": "cosmote", "icon": None},
-    {"epgName": "cosmote_cinema_2", "serverName": "8411809", "provider": "cosmote", "icon": None},
-    {"epgName": "cosmote_cinema_3", "serverName": "38469", "provider": "cosmote", "icon": None},
+    # {"epgName": "cosmote_cinema_1", "serverName": "38979", "provider": "cosmote", "icon": None},
+    # {"epgName": "cosmote_cinema_2", "serverName": "8411809", "provider": "cosmote", "icon": None},
+    # {"epgName": "cosmote_cinema_3", "serverName": "38469", "provider": "cosmote", "icon": None},
 
-    # Sports
-    {"epgName": "cosmote_sport_highlights", "serverName": "38605", "provider": "cosmote", "icon": None},
-    {"epgName": "cosmote_sport_1", "serverName": "38605", "provider": "cosmote", "icon": None},
-    {"epgName": "cosmote_sport_2", "serverName": "39982", "provider": "cosmote", "icon": None},
-    {"epgName": "cosmote_sport_3", "serverName": "38622", "provider": "cosmote", "icon": None},
-    {"epgName": "cosmote_sport_4", "serverName": "39795", "provider": "cosmote", "icon": None},
-    {"epgName": "cosmote_sport_5", "serverName": "39812", "provider": "cosmote", "icon": None},
-    {"epgName": "cosmote_sport_6", "serverName": "39472", "provider": "cosmote", "icon": None},
-    {"epgName": "cosmote_sport_7", "serverName": "39540", "provider": "cosmote", "icon": None},
-    {"epgName": "cosmote_sport_8", "serverName": "77296", "provider": "cosmote", "icon": None},
-    {"epgName": "cosmote_sport_9", "serverName": "48415477", "provider": "cosmote", "icon": None},
-    {"epgName": "cosmote_sport_4k", "serverName": "128863141", "provider": "cosmote", "icon": None},
-    {"epgName": "cosmote_sport_aek", "serverName": "133858931", "provider": "cosmote", "icon": None},
-    {"epgName": "cosmote_sport_olympiacos", "serverName": "133858948", "provider": "cosmote", "icon": None},
-    {"epgName": "cosmote_sport_panathinaikos", "serverName": "133858965", "provider": "cosmote", "icon": None},
+    # # Sports
+    # {"epgName": "cosmote_sport_highlights", "serverName": "38605", "provider": "cosmote", "icon": None},
+    # {"epgName": "cosmote_sport_1", "serverName": "38605", "provider": "cosmote", "icon": None},
+    # {"epgName": "cosmote_sport_2", "serverName": "39982", "provider": "cosmote", "icon": None},
+    # {"epgName": "cosmote_sport_3", "serverName": "38622", "provider": "cosmote", "icon": None},
+    # {"epgName": "cosmote_sport_4", "serverName": "39795", "provider": "cosmote", "icon": None},
+    # {"epgName": "cosmote_sport_5", "serverName": "39812", "provider": "cosmote", "icon": None},
+    # {"epgName": "cosmote_sport_6", "serverName": "39472", "provider": "cosmote", "icon": None},
+    # {"epgName": "cosmote_sport_7", "serverName": "39540", "provider": "cosmote", "icon": None},
+    # {"epgName": "cosmote_sport_8", "serverName": "77296", "provider": "cosmote", "icon": None},
+    # {"epgName": "cosmote_sport_9", "serverName": "48415477", "provider": "cosmote", "icon": None},
+    # {"epgName": "cosmote_sport_4k", "serverName": "128863141", "provider": "cosmote", "icon": None},
+    # {"epgName": "cosmote_sport_aek", "serverName": "133858931", "provider": "cosmote", "icon": None},
+    # {"epgName": "cosmote_sport_olympiacos", "serverName": "133858948", "provider": "cosmote", "icon": None},
+    # {"epgName": "cosmote_sport_panathinaikos", "serverName": "133858965", "provider": "cosmote", "icon": None},
     
     # Digea
     # Panelladika
-    {"epgName": "alpha", "serverName": "3100", "provider": "digea", "icon": "https://data.greektv.ml/logos/alpha.png"},
-    {"epgName": "ant1", "serverName": "3300", "provider": "digea", "icon": "https://data.greektv.ml/logos/ant1.png"},
+    {"epgName": "alpha", "alias": "Alpha Greece", "serverName": "3100", "provider": "digea", "icon": "https://data.greektv.ml/logos/alpha.png"},
+    {"epgName": "ant1", "alias": "ant1europe", "serverName": "3300", "provider": "digea", "icon": "https://data.greektv.ml/logos/ant1.png"},
     {"epgName": "open", "serverName": "3400", "provider": "digea", "icon": "https://data.greektv.ml/logos/openbeyond.png"},
     {"epgName": "mtv", "serverName": "3700", "provider": "digea", "icon": "https://data.greektv.ml/logos/makedonia.png"},
-    {"epgName": "skai", "serverName": "3200", "provider": "digea", "icon": "https://data.greektv.ml/logos/skai.png"},
-    {"epgName": "star", "serverName": "3500", "provider": "digea", "icon": "https://data.greektv.ml/logos/star.png"},
-    {"epgName": "mega", "serverName": "3600", "provider": "digea", "icon": "https://data.greektv.ml/logos/mega.png"},
+    {"epgName": "skai", "alias": "skai.gr", "serverName": "3200", "provider": "digea", "icon": "https://data.greektv.ml/logos/skai.png"},
+    {"epgName": "star", "alias": "star.gr", "serverName": "3500", "provider": "digea", "icon": "https://data.greektv.ml/logos/star.png"},
+    {"epgName": "mega", "alias": "megatv.com", "serverName": "3600", "provider": "digea", "icon": "https://data.greektv.ml/logos/mega.png"},
 
     # An. Mak. Thraki
     {"epgName": "alfa", "serverName": "4080", "provider": "digea", "icon": "https://data.greektv.ml/logos/alfa.png"},
@@ -134,7 +133,7 @@ channels = [
     {"epgName": "sitiatv", "serverName": "5630", "provider": "digea", "icon": "https://data.greektv.ml/logos/sitiatv.png"},
     {"epgName": "epsilonkriti", "serverName": "5570", "provider": "digea", "icon": "https://data.greektv.ml/logos/epsilonkriti.png"},
 
-    # Dodekannisa & Samos
+    # # Dodekannisa & Samos
     {"epgName": "aigaiotv", "serverName": "5720", "provider": "digea", "icon": "https://data.greektv.ml/logos/aigaiotv.png"},
     {"epgName": "kostv", "serverName": "5750", "provider": "digea", "icon": "https://data.greektv.ml/logos/kostv.png"},
     {"epgName": "iridatv", "serverName": "5740", "provider": "digea", "icon": "https://data.greektv.ml/logos/iridatv.png"},
@@ -142,17 +141,17 @@ channels = [
     {"epgName": "samiakitv", "serverName": "5730", "provider": "digea", "icon": "https://data.greektv.ml/logos/samiakitv.png"},
     {"epgName": "kosmos", "serverName": "5760", "provider": "digea", "icon": "https://data.greektv.ml/logos/kosmos.png"},
 
-    # Kiklades
+    # # Kiklades
     {"epgName": "syrostv1", "serverName": "5850", "provider": "digea", "icon": "https://data.greektv.ml/logos/syrostv1.png"},
     {"epgName": "volcano", "serverName": "5860", "provider": "digea", "icon": "https://data.greektv.ml/logos/volcano.png"},
 
-    # BA Aigaio
+    # # BA Aigaio
     {"epgName": "alithiatv", "serverName": "5130", "provider": "digea", "icon": "https://data.greektv.ml/logos/alithiatv.png"},
     {"epgName": "patridatv", "serverName": "5140", "provider": "digea", "icon": "https://data.greektv.ml/logos/patridatv.png"},
     {"epgName": "aeolos", "serverName": "5150", "provider": "digea", "icon": "https://data.greektv.ml/logos/aeolos.png"},
 
 
-    # Cyta
+    # # Cyta
     {"epgName": "rik1", "serverName": "561066", "provider": "cyta", "icon": "https://data.greektv.ml/logos/rik1.png"},
     {"epgName": "rik2", "serverName": "561078", "provider": "cyta", "icon": "https://data.greektv.ml/logos/rik2.png"},
     {"epgName": "rikhd", "serverName": "608096", "provider": "cyta", "icon": "https://data.greektv.ml/logos/rikhd.png"},

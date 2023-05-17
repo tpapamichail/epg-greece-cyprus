@@ -18,6 +18,10 @@ TIMEZONE = datetime.now(pytz.timezone('Europe/Athens')).strftime('%z')
 def parse(channel, digea_cache):
     server_name = channel.get('serverName')
     epg_name = channel.get('epgName')
+    alias = channel.get('alias')
+    if alias:
+        epg_name = alias
+        
     print(f'{epg_name} start')
 
     channel_epg = []
