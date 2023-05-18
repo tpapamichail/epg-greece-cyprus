@@ -1,13 +1,13 @@
 # epg-greece-cyprus
-![UpdateEPG](https://github.com/GreekTVApp/epg-greece-cyprus/workflows/UpdateEPG/badge.svg)
+![UpdateEPG](https://github.com/tpapamichail/epg-greece-cyprus/workflows/UpdateEPG/badge.svg)
 
 EPG parser for Greek and Cypriot channels.
 
 ## How to use
 Just use one of the following links; the files are being automatically updated every day.
 ```
-https://github.com/GreekTVApp/epg-greece-cyprus/releases/download/EPG/epg.xml.gz
-https://github.com/GreekTVApp/epg-greece-cyprus/releases/download/EPG/epg.xml
+https://github.com/tpapamichail/epg-greece-cyprus/releases/download/EPG/epg.xml.gz
+https://github.com/tpapamichail/epg-greece-cyprus/releases/download/EPG/epg.xml
 ```
 
 ## Sources
@@ -17,7 +17,7 @@ https://github.com/GreekTVApp/epg-greece-cyprus/releases/download/EPG/epg.xml
 - Ant1 Europe (https://www.antennaeurope.gr/)
 
 ## Mappings
-You can find all the mappings [here](https://github.com/GreekTVApp/epg-greece-cyprus/blob/main/channels.py)
+You can find all the mappings [here](https://github.com/tpapamichail/epg-greece-cyprus/blob/main/channels.py)
 
 ## License
 ```
