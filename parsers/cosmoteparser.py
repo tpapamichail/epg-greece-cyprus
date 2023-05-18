@@ -7,9 +7,16 @@ import os
 URL = 'https://www.cosmotetv.gr/portal/residential/program?p_p_id=dayprogram_WAR_OTETVportlet&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&_dayprogram_WAR_OTETVportlet_date={DATE}&_dayprogram_WAR_OTETVportlet_feedType=EPG&_dayprogram_WAR_OTETVportlet_start=0&_dayprogram_WAR_OTETVportlet_end=102&_dayprogram_WAR_OTETVportlet_platform=DTH&_dayprogram_WAR_OTETVportlet_categoryId=-1'
 
 HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0',
-    'Referer': 'https://www.cosmotetv.gr/portal/residential/program',
-    'Origin': 'https://www.cosmotetv.gr/'
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'Sec-Fetch-Site': 'none',
+    'Cookie': 'JSESSIONID=68ABD1B1DC250CF2BE665B921FA59838.prod-node-1dtCookie=v_4_srv_9_sn_C694414EC21012097CEB5BBFE88BCA85_perc_100000_ol_0_mul_,1_app-3Aea7c4b59f27d43eb_0_rcs-3Acss_0; COOKIE_SUPPORT=true; GUEST_LANGUAGE_ID=el_GR',
+    'Accept-Encoding': 'gzip, deflate, br',
+    'Sec-Fetch-Mode': 'navigate',
+    'Host': 'www.cosmotetv.gr',
+    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15',
+    'Accept-Language': 'en-GB,en;q=0.9',
+    'Sec-Fetch-Dest': 'document',
+    'Connection': 'keep-alive'
 }
 
 TIMEZONE = datetime.now(pytz.timezone('Europe/Athens')).strftime('%z')
