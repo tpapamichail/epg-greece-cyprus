@@ -1,8 +1,8 @@
 channels = [
     # Ert
-    {"epgName": "ert1", "alias": "ept1-live", "serverName": "39846", "provider": "cosmote", "icon": "https://data.greektv.ml/logos/ert1.png"},
-    {"epgName": "ert2", "alias": "ept2-live", "serverName": "39404", "provider": "cosmote", "icon": "https://data.greektv.ml/logos/ert2.png"},
-    {"epgName": "ert3", "alias": "ept3-live", "serverName": "39557", "provider": "cosmote", "icon": "https://data.greektv.ml/logos/ert3.png"},
+    {"epgName": "ert1", "serverName": "39846", "provider": "cosmote", "icon": "https://data.greektv.ml/logos/ert1.png"},
+    {"epgName": "ert2", "serverName": "39404", "provider": "cosmote", "icon": "https://data.greektv.ml/logos/ert2.png"},
+    {"epgName": "ert3", "serverName": "39557", "provider": "cosmote", "icon": "https://data.greektv.ml/logos/ert3.png"},
 
     # Cinema
     # {"epgName": "cosmote_cinema_1", "serverName": "38979", "provider": "cosmote", "icon": None},
@@ -27,32 +27,32 @@ channels = [
     
     # Digea
     # Panelladika
-    {"epgName": "alpha", "alias": "Alpha Greece", "serverName": "3100", "provider": "digea", "icon": "https://data.greektv.ml/logos/alpha.png"},
-    {"epgName": "ant1", "alias": "ant1europe", "serverName": "3300", "provider": "digea", "icon": "https://data.greektv.ml/logos/ant1.png"},
+    {"epgName": "alpha", "serverName": "3100", "provider": "digea", "icon": "https://data.greektv.ml/logos/alpha.png"},
+    {"epgName": "ant1", "serverName": "3300", "provider": "digea", "icon": "https://data.greektv.ml/logos/ant1.png"},
     {"epgName": "open", "serverName": "3400", "provider": "digea", "icon": "https://data.greektv.ml/logos/openbeyond.png"},
     {"epgName": "mtv", "serverName": "3700", "provider": "digea", "icon": "https://data.greektv.ml/logos/makedonia.png"},
-    {"epgName": "skai", "alias": "skai.gr", "serverName": "3200", "provider": "digea", "icon": "https://data.greektv.ml/logos/skai.png"},
-    {"epgName": "star", "alias": "star.gr", "serverName": "3500", "provider": "digea", "icon": "https://data.greektv.ml/logos/star.png"},
-    {"epgName": "mega", "alias": "megatv.com", "serverName": "3600", "provider": "digea", "icon": "https://data.greektv.ml/logos/mega.png"},
+    {"epgName": "skai", "serverName": "3200", "provider": "digea", "icon": "https://data.greektv.ml/logos/skai.png"},
+    {"epgName": "star", "serverName": "3500", "provider": "digea", "icon": "https://data.greektv.ml/logos/star.png"},
+    {"epgName": "mega", "serverName": "3600", "provider": "digea", "icon": "https://data.greektv.ml/logos/mega.png"},
 
     # An. Mak. Thraki
-    {"epgName": "alfa", "alias": "ALFA.gr", "serverName": "4080", "provider": "digea", "icon": "https://data.greektv.ml/logos/alfa.png"},
+    {"epgName": "alfa", "serverName": "4080", "provider": "digea", "icon": "https://data.greektv.ml/logos/alfa.png"},
     {"epgName": "centertv", "serverName": "4090", "provider": "digea", "icon": "https://data.greektv.ml/logos/centertv.png"},
-    {"epgName": "deltatv", "alias": "Δέλτα TV", "serverName": "4020", "provider": "digea", "icon": "https://data.greektv.ml/logos/deltatv.png"},
+    {"epgName": "deltatv", "serverName": "4020", "provider": "digea", "icon": "https://data.greektv.ml/logos/deltatv.png"},
     {"epgName": "diktyotv", "serverName": "4030", "provider": "digea", "icon": "https://data.greektv.ml/logos/diktyotv.png"},
     {"epgName": "smileamth", "serverName": "5730", "provider": "digea", "icon": "https://data.greektv.ml/logos/smileamth.png"},
-    {"epgName": "enachannel", "alias": "ENA Channel", "serverName": "4040", "provider": "digea", "icon": "https://data.greektv.ml/logos/enachannel.png"},
+    {"epgName": "enachannel", "serverName": "4040", "provider": "digea", "icon": "https://data.greektv.ml/logos/enachannel.png"},
     {"epgName": "lydiatv", "serverName": "4170", "provider": "digea", "icon": "https://data.greektv.ml/logos/lydiatv.png"},
     {"epgName": "orestiadatv", "serverName": "4070", "provider": "digea", "icon": "https://data.greektv.ml/logos/orestiadatv.png"},
     {"epgName": "tvrodopi", "serverName": "4130", "provider": "digea", "icon": "https://data.greektv.ml/logos/tvrodopi.png"},
     {"epgName": "starbe", "serverName": "4120", "provider": "digea", "icon": "https://data.greektv.ml/logos/starbe.png"},
-    {"epgName": "thrakinet", "alias": "ΘΡΑΚΗΝΕΤ", "serverName": "4060", "provider": "digea", "icon": "https://data.greektv.ml/logos/thrakinet.png"},
+    {"epgName": "thrakinet", "serverName": "4060", "provider": "digea", "icon": "https://data.greektv.ml/logos/thrakinet.png"},
     {"epgName": "tileepiloges", "serverName": "4050", "provider": "digea", "icon": "https://data.greektv.ml/logos/tileepiloges.png"},
     {"epgName": "edamth", "serverName": "4010", "provider": "digea", "icon": "https://data.greektv.ml/logos/edamth.png"},
     {"epgName": "nexttv", "serverName": "4100", "provider": "digea", "icon": "https://data.greektv.ml/logos/nexttv.png"},
 
     # Kendriki Makedonia
-    {"epgName": "4e", "alias": "4E.gr", "serverName": "4380", "provider": "digea", "icon": "https://data.greektv.ml/logos/4e.png"},
+    {"epgName": "4e", "serverName": "4380", "provider": "digea", "icon": "https://data.greektv.ml/logos/4e.png"},
     {"epgName": "atlastv", "serverName": "4250", "provider": "digea", "icon": "https://data.greektv.ml/logos/atlastv.png"},
     {"epgName": "berginatv", "serverName": "4240", "provider": "digea", "icon": "https://data.greektv.ml/logos/berginatv.png"},
     {"epgName": "europeone", "serverName": "4280", "provider": "digea", "icon": "https://data.greektv.ml/logos/europeone.png"},
@@ -60,8 +60,8 @@ channels = [
     {"epgName": "nickelodeonplus", "serverName": "4370", "provider": "digea", "icon": "https://data.greektv.ml/logos/nickelodeonplus.png"},
     {"epgName": "diontv", "serverName": "4260", "provider": "digea", "icon": "https://data.greektv.ml/logos/diontv.png"},
     {"epgName": "eurotv", "serverName": "4270", "provider": "digea", "icon": "https://data.greektv.ml/logos/eurotv.png"},
-    {"epgName": "tv100", "alias": "TV 100", "serverName": "4300", "provider": "digea", "icon": "https://data.greektv.ml/logos/tv100.png"},
-    {"epgName": "gnomitv", "alias": "digea.plp.gr", "serverName": "4290", "provider": "digea", "icon": "https://data.greektv.ml/logos/gnomitv.png"},
+    {"epgName": "tv100", "serverName": "4300", "provider": "digea", "icon": "https://data.greektv.ml/logos/tv100.png"},
+    {"epgName": "gnomitv", "serverName": "4290", "provider": "digea", "icon": "https://data.greektv.ml/logos/gnomitv.png"},
 
     # Dytiki Makedonia
     {"epgName": "diktyo1", "serverName": "5310", "provider": "digea", "icon": "https://data.greektv.ml/logos/diktyo1.png"},
@@ -99,7 +99,7 @@ channels = [
     # Thessalia
     {"epgName": "astratv", "serverName": "4680", "provider": "digea", "icon": "https://data.greektv.ml/logos/astratv.png"},
     {"epgName": "thessaliatv", "serverName": "4670", "provider": "digea", "icon": "https://data.greektv.ml/logos/thessaliatv.png"},
-    {"epgName": "trt", "alias": "TRT.gr", "serverName": "4700", "provider": "digea", "icon": "https://data.greektv.ml/logos/trt.png"},
+    {"epgName": "trt", "serverName": "4700", "provider": "digea", "icon": "https://data.greektv.ml/logos/trt.png"},
     {"epgName": "formediatv", "serverName": "4710", "provider": "digea", "icon": "https://data.greektv.ml/logos/formediatv.png"},
     {"epgName": "smileplus", "serverName": "4690", "provider": "digea", "icon": "https://data.greektv.ml/logos/smileplus.png"},
 
@@ -113,30 +113,30 @@ channels = [
     {"epgName": "extrachannel", "serverName": "4950", "provider": "digea", "icon": "https://data.greektv.ml/logos/extrachannel.png"},
     {"epgName": "action24", "serverName": "5000", "provider": "digea", "icon": "https://data.greektv.ml/logos/action24.png"},
     {"epgName": "atticatv", "serverName": "4920", "provider": "digea", "icon": "https://data.greektv.ml/logos/atticatv.png"},
-    {"epgName": "bluesky", "alias": "BlueSky.gr", "serverName": "4930", "provider": "digea", "icon": "https://data.greektv.ml/logos/bluesky.png"},
+    {"epgName": "bluesky", "serverName": "4930", "provider": "digea", "icon": "https://data.greektv.ml/logos/bluesky.png"},
     {"epgName": "onetv", "serverName": "4940", "provider": "digea", "icon": "https://data.greektv.ml/logos/onetvhd.png"},
     {"epgName": "epsilon", "serverName": "4990", "provider": "digea", "icon": "https://data.greektv.ml/logos/ae.png"},
-    {"epgName": "hightv", "alias": "HIGHTV", "serverName": "5010", "provider": "digea", "icon": "https://data.greektv.ml/logos/hightv.png"},
-    {"epgName": "kontra", "alias": "KONTRA", "serverName": "5020", "provider": "digea", "icon": "https://data.greektv.ml/logos/kontra.png"},
+    {"epgName": "hightv", "serverName": "5010", "provider": "digea", "icon": "https://data.greektv.ml/logos/hightv.png"},
+    {"epgName": "kontra", "serverName": "5020", "provider": "digea", "icon": "https://data.greektv.ml/logos/kontra.png"},
     {"epgName": "madtv", "serverName": "5030", "provider": "digea", "icon": "https://data.greektv.ml/logos/madtv.png"},
     {"epgName": "risetv", "serverName": "5050", "provider": "digea", "icon": "https://data.greektv.ml/logos/risetv.png"},
     {"epgName": "nickelodeon", "serverName": "5040", "provider": "digea", "icon": "https://data.greektv.ml/logos/nickelodeon.png"},
     {"epgName": "smile", "serverName": "5060", "provider": "digea", "icon": "https://data.greektv.ml/logos/smile.png"},
-    {"epgName": "alert", "alias": "ALERT.gr", "serverName": "4910", "provider": "digea", "icon": "https://data.greektv.ml/logos/alert.png"},
+    {"epgName": "alert", "serverName": "4910", "provider": "digea", "icon": "https://data.greektv.ml/logos/alert.png"},
 
     # Kriti
     {"epgName": "notostv", "serverName": "5620", "provider": "digea", "icon": "https://data.greektv.ml/logos/notostv.png"},
-    {"epgName": "creta", "alias": "CRETA.gr", "serverName": "5610", "provider": "digea", "icon": "https://data.greektv.ml/logos/creta.png"},
+    {"epgName": "creta", "serverName": "5610", "provider": "digea", "icon": "https://data.greektv.ml/logos/creta.png"},
     {"epgName": "krhthtv", "serverName": "5580", "provider": "digea", "icon": "https://data.greektv.ml/logos/krhthtv.png"},
     {"epgName": "krititv1", "serverName": "5590", "provider": "digea", "icon": "https://data.greektv.ml/logos/krititv1.png"},
-    {"epgName": "neatvcrete", "alias": "Νέα Τηλεόραση Κρήτης", "serverName": "5600", "provider": "digea", "icon": "https://data.greektv.ml/logos/neatvcrete.png"},
+    {"epgName": "neatvcrete", "serverName": "5600", "provider": "digea", "icon": "https://data.greektv.ml/logos/neatvcrete.png"},
     {"epgName": "sitiatv", "serverName": "5630", "provider": "digea", "icon": "https://data.greektv.ml/logos/sitiatv.png"},
     {"epgName": "epsilonkriti", "serverName": "5570", "provider": "digea", "icon": "https://data.greektv.ml/logos/epsilonkriti.png"},
 
     # # Dodekannisa & Samos
     {"epgName": "aigaiotv", "serverName": "5720", "provider": "digea", "icon": "https://data.greektv.ml/logos/aigaiotv.png"},
     {"epgName": "kostv", "serverName": "5750", "provider": "digea", "icon": "https://data.greektv.ml/logos/kostv.png"},
-    {"epgName": "iridatv", "alias": "IRIDA TV", "serverName": "5740", "provider": "digea", "icon": "https://data.greektv.ml/logos/iridatv.png"},
+    {"epgName": "iridatv", "serverName": "5740", "provider": "digea", "icon": "https://data.greektv.ml/logos/iridatv.png"},
     {"epgName": "tharri", "serverName": "5770", "provider": "digea", "icon": "https://data.greektv.ml/logos/tharri.png"},
     {"epgName": "samiakitv", "serverName": "5730", "provider": "digea", "icon": "https://data.greektv.ml/logos/samiakitv.png"},
     {"epgName": "kosmos", "serverName": "5760", "provider": "digea", "icon": "https://data.greektv.ml/logos/kosmos.png"},
@@ -148,7 +148,7 @@ channels = [
     # # BA Aigaio
     {"epgName": "alithiatv", "serverName": "5130", "provider": "digea", "icon": "https://data.greektv.ml/logos/alithiatv.png"},
     {"epgName": "patridatv", "serverName": "5140", "provider": "digea", "icon": "https://data.greektv.ml/logos/patridatv.png"},
-    {"epgName": "aeolos", "alias": "digea.tvm.gr", "serverName": "5150", "provider": "digea", "icon": "https://data.greektv.ml/logos/aeolos.png"},
+    {"epgName": "aeolos", "serverName": "5150", "provider": "digea", "icon": "https://data.greektv.ml/logos/aeolos.png"},
 
 
     # # Cyta
@@ -216,14 +216,14 @@ channels = [
     
     {"epgName": "Eurosport1", "serverName": "216356", "provider": "cyta", "icon": None},
     {"epgName": "Eurosport2", "serverName": "586291", "provider": "cyta", "icon": None},
-    {"epgName": "voulitv", "alias": "Vouli", "serverName": "216630", "provider": "cyta", "icon": "https://data.greektv.ml/logos/voulitv.png"},
+    {"epgName": "voulitv", "serverName": "216630", "provider": "cyta", "icon": "https://data.greektv.ml/logos/voulitv.png"},
     {"epgName": "BabyTV", "serverName": "2743", "provider": "cyta", "icon": None},
     {"epgName": "EuroNews", "serverName": "573974", "provider": "cyta", "icon": "https://data.greektv.ml/logos/euronews.png"},
     
     # Ertflix
     {"epgName": "ertsports", "serverName": "ert-sports-live-ww", "provider": "ertflix", "icon": "https://data.greektv.ml/logos/ertsports.png"},
     {"epgName": "ertworld", "serverName": "ept-world-live", "provider": "ertflix", "icon": "https://data.greektv.ml/logos/ertworld.png"},
-    {"epgName": "ertnews", "alias": "ert-news", "serverName": "ert-news", "provider": "ertflix", "icon": "https://data.greektv.ml/logos/ertnews.png"},
+    {"epgName": "ertnews", "serverName": "ert-news", "provider": "ertflix", "icon": "https://data.greektv.ml/logos/ertnews.png"},
 
     # Antenna Europe
     {"epgName": "ant1europe", "serverName": "", "provider": "ant1eu", "icon": "https://data.greektv.ml/logos/ant1europe.png"},
