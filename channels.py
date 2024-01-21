@@ -1,8 +1,8 @@
 channels = [
     # Ert
-    {"epgName": "ert1", "serverName": "39846", "provider": "cosmote", "icon": "https://data.greektv.ml/logos/ert1.png"},
-    {"epgName": "ert2", "serverName": "39404", "provider": "cosmote", "icon": "https://data.greektv.ml/logos/ert2.png"},
-    {"epgName": "ert3", "serverName": "39557", "provider": "cosmote", "icon": "https://data.greektv.ml/logos/ert3.png"},
+    {"epgName": "ert1-hd", "serverName": "39846", "provider": "cosmote", "icon": "https://data.greektv.ml/logos/ert1.png"},
+    {"epgName": "ert2-hd", "serverName": "39404", "provider": "cosmote", "icon": "https://data.greektv.ml/logos/ert2.png"},
+    {"epgName": "ert3-hd", "serverName": "39557", "provider": "cosmote", "icon": "https://data.greektv.ml/logos/ert3.png"},
 
     # Cinema
     # {"epgName": "cosmote_cinema_1", "serverName": "38979", "provider": "cosmote", "icon": None},
